@@ -55,3 +55,9 @@ var yearName = datumVanNu.getFullYear();
 var datum = document.getElementById('datum');
 datum.innerHTML = datumCijfers + '-' + dayName + '-' + yearName;
 
+
+
+
+
+// I hate Elon Musk:
+//https://www.youtube.com/watch?v=KqyXvMrQDk8&ab_channel=saltysoo
